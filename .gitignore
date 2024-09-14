@@ -1,0 +1,41 @@
+# Maven directories
+target/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+out/
+
+# Visual Studio Code directories
+.vscode/
+
+# Log files
+*.log
+
+# Build files
+*.class
+*.jar
+*.war
+*.ear
+
+# Local Maven dependencies
+repository/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE generated files
+bin/
+generated-sources/
+generated-test-sources/
+
+# DB
+*.db
+
+MiniCompilator/src/main/java/com/inf5153/miniLang/javaGeneration/
+
+
+
+
