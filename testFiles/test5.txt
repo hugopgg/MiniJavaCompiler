@@ -1,0 +1,11 @@
+{
+    x = 10;
+    y = 20;
+    z = x * y;
+    if (z > 150) then {
+        result = z - 10;
+    } else {
+        result = z + 10;
+    }
+    print(result);
+}

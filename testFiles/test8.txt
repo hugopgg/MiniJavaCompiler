@@ -1,0 +1,6 @@
+{
+    b = "allo";
+    a = "toto";
+    print(b);
+    print(a);
+}

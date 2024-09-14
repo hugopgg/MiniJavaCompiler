@@ -1,0 +1,6 @@
+{
+    a = 15;    
+    b = "hello";
+    print(a);
+    print(b);
+}
